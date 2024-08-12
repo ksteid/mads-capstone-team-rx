@@ -8,12 +8,6 @@ Our project aims to optimize medication inventory management by leveraging histo
 ## Data Source
 The primary data source is the “Medication Inventory Management Dataset” shared by the Pharmacy Manager of U-M: Michigan Medicine - Pharmacy Administration. The dataset contains historical medication inventory and transaction data, covering 3 hospitals, 40 outpatient locations, and over 120 clinics from February 2022 to June 2024. It includes detailed information on inventory levels, transactions (picks, restocks, wastes, etc.), medication details, locations and so on.
 
-## Main Findings
-1. 
-
-2.
- 
-3. 
 
 
 ## Tools Used
@@ -24,10 +18,6 @@ The primary data source is the “Medication Inventory Management Dataset” sha
 - Seaborn
 - Scikit-learn
 - SciPy
-
-
-## Recommendations
-
 
 
 ## Team Information
