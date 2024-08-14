@@ -6,11 +6,9 @@ This project was completed as our Capstone Project for the Master of Applied Dat
 Our project aims to optimize medication inventory management by leveraging historical data from the University of Michigan Medicine Pharmacy Administration to predict pharmaceutical demand. Our project’s goal is to reduce medication waste that would help lower costs and ensure that patients have access to the medications they need when they need them.
 
 ## Data Source
-The primary data source is the “Medication Inventory Management Dataset” shared by the Pharmacy Manager of U-M: Michigan Medicine - Pharmacy Administration. The dataset contains historical medication inventory and transaction data, covering 3 hospitals, 40 outpatient locations, and over 120 clinics from February 2022 to June 2024. It includes detailed information on inventory levels, transactions (picks, restocks, wastes, etc.), medication details, locations and so on.
+The primary data source is the “Medication Inventory Management Dataset” shared by the Pharmacy Manager of U-M: Michigan Medicine - Pharmacy Administration. The dataset contains historical medication inventory and transaction data, covering 3 hospitals, 40 outpatient locations, and over 120 clinics from February 2022 to June 2024. It includes detailed information on inventory levels, transactions (picks, restocks, wastes, etc.), medication details, locations and so on. **Due to the proprietary nature of this dataset, it is not included in our GitHub repository.**
 
-
-
-## Tools Used
+## Packages Used
 - Python
 - Pandas
 - NumPy
@@ -19,7 +17,10 @@ The primary data source is the “Medication Inventory Management Dataset” sha
 - Scikit-learn
 - SciPy
 
-
 ## Team Information
-Vanessa Scalora, Kevin Steidler and Ejaz Alam
+Contributors
+Ejaz Alam (ejazalam@umich.edu)
+Vanessa Scalora (vscalora@umich.edu)
+Kevin Steidler (ksteid@umich.edu)
 
+Project Link: https://github.com/nblakkanesser/MADS_Capstone.git
