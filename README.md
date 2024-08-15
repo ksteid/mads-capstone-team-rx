@@ -1,4 +1,4 @@
-# Optimizing Medication Inventory Management
+# Rxcellence: Optimizing Medication Inventory Management at the University of Michigan Medicine Pharmacy Administration
 
 ## Project Overview
 This project aims to be the first step in optimizing medication inventory management by leveraging historical data from the University of Michigan Medicine Pharmacy Administration to predict pharmaceutical demand. The objective is a proof of concept for a potential solution that would reduce medication waste, subsequently lowering costs and helping ensure that patients have access to the medications they need when needed. Our method is to cluster medicines based on their similarity in demand signals to identify general management strategies and, for more specific inventory management, to forecast the daily demand for individual medications.
