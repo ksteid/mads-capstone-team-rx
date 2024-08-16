@@ -27,5 +27,3 @@ Contributors
 Ejaz Alam (ejazalam@umich.edu)
 Vanessa Scalora (vscalora@umich.edu)
 Kevin Steidler (ksteid@umich.edu)
-
-Project Link: https://github.com/nblakkanesser/MADS_Capstone.git
