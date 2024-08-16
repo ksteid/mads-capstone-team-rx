@@ -1,0 +1,8 @@
+darts==0.30.0
+matplotlib==3.8.4
+numpy==1.21.5
+pandas==2.0.3
+scikit_learn==1.4.2
+scipy==1.7.3
+seaborn==0.11.2
+
